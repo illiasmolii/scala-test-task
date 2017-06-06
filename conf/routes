@@ -1,0 +1,2 @@
+GET     /log                           controllers.GusetbookController.get
+POST    /log                           controllers.GusetbookController.post

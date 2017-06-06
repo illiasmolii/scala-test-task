@@ -1,0 +1,8 @@
+/.idea
+*/target
+*/*/target
+*.iml
+*.log
+logs/
+project/project/
+target/
