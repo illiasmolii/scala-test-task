@@ -1,7 +1,7 @@
 ## Run the application
 
 ```
-$ sbt start
+$ sbt -Dhttp.port=80 start
 ```
 
 ## Available endpoints
